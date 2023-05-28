@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #f5f7fa;
+}
+
+.explore-main-heading {
+    font-family: "roboto";
+    color: #183b56;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.explore-sub-heading {
+    font-family: "roboto";
+    color: #183b56;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.explore-details {
+    border-style: none;
+}
+
+.explore-images {
+    height: 150px;
+    border-radius: 20px;
+}
+
+.image-heading {
+    font-size: 20px;
+    font-family: "roboto";
+    color: #1f2933;
+}
+
+.dealslink {
+    color: #ff9f00;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.explore-images-2 {
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+}

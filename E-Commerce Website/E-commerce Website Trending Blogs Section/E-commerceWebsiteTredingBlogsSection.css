@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.blogs-section {
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.blog-details {
+    border-style: none;
+    border-radius: 10px;
+}
+
+.blog-image {
+    width: 100%;
+}
+
+.blog-para1 {
+    font-family: "roboto";
+    font-size: 20px;
+    color: #959ead;
+}
+
+.blog-para2 {
+    font-family: "roboto";
+    font-size: 27px;
+    color: #959ead;
+}
+
+.blog-para3 {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff9f00;
+}
+
+.blog-head {
+    font-family: "roboto";
+    font-size: 31px;
+    font-weight: 700;
+    color: #183b56;
+}
